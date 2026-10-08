@@ -1,0 +1,3 @@
+# Python dependencies, one per line with versions, e.g.
+# numpy>=1.24
+# Using R or MATLAB instead? Replace this file with renv.lock or a note on required toolboxes.

@@ -1,0 +1,42 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# --- R ---
+.Rhistory
+.RData
+.Rproj.user/
+
+# --- MATLAB ---
+*.asv
+*.mex*
+
+# --- LaTeX build files ---
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+
+# --- OS / editors ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Data (large/raw data stays out of git; see data/README.md) ---
+data/raw/
+
+# --- Literature PDFs (copyright) ---
+literature/**/*.pdf
+
+# --- Secrets ---
+.env
+*.key
+credentials*

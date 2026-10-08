@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "<Project title>"
+authors:
+  - family-names: "<Lastname>"
+    given-names: "<Firstname>"
+    affiliation: "<Host institution>"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "0.1.0"
+date-released: "YYYY-MM-DD"
+license: MIT
+repository-code: "https://github.com/<org-name>/<repo-name>"
+keywords:
+  - FOURIER
+  - "<keyword>"
+# When the paper is published, uncomment and fill in:
+# preferred-citation:
+#   type: article
+#   authors:
+#     - family-names: "<Lastname>"
+#       given-names: "<Firstname>"
+#   title: "<Paper title>"
+#   journal: "<Journal>"
+#   year: YYYY
+#   doi: "10.xxxx/xxxxx"
